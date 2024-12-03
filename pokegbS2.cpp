@@ -2,8 +2,6 @@
 #include <SDL2/SDL.h>
 #include <cstdint>
 #include <fcntl.h>
-#include "mman.h"
-//#include "minigb_apu.h"
 #include <unistd.h>
 #include <math.h>
 #include <stdbool.h>
